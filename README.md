@@ -1,2 +1,2 @@
 # logistic-regression-with-regularisation
-Implements logistic regression whit regularisation
+Implements logistic regression with regularisation
